@@ -1,0 +1,5 @@
+package co.edu.uniquindio.poo;
+
+public enum TipoEnvio {
+    ENVIO_ESTANDAR,ENVIO_PRIORITARIO,ENVIO_AIRE,ENVIO_INTERNACIONAL,ENVIO_MAR,ENVIO_EXPRESS
+}
